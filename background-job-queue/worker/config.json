@@ -1,0 +1,8 @@
+{
+  "ManifestPassthrough": {
+    "exec_wait_for_ip4_secs": "5"
+  },
+  "CloudConfig": {
+    "BucketName": "nanos-test"
+  }
+}
