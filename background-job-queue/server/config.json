@@ -1,0 +1,9 @@
+{
+  "Files": ["prod.json", "words"],
+  "CloudConfig": {
+    "BucketName": "nanos-test"
+  },
+  "Env": {
+    "GOOGLE_APPLICATION_CREDENTIALS":"prod.json"
+  }
+}
